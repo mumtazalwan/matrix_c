@@ -1,0 +1,3 @@
+D:/pts_mtk/cmake-build-debug/CMakeFiles/pts_mtk.dir
+D:/pts_mtk/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pts_mtk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
